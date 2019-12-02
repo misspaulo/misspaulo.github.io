@@ -1,4 +1,4 @@
-# UMIDIGI A5 Pro
+# UMIDIGI A5 Prof
 
 ## Boot into TWRP:
 1. Shut down the phone
