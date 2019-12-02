@@ -1,12 +1,14 @@
 # UMIDIGI A5 Pro
 
 ## Boot into TWRP:
-Shut down the phone, press power + vol up. Navigate using vol+ and select using vol-
+1. Shut down the phone
+2. Press and hold volume up, then press power botton at same time
+3. Navigate using volume up and select using volume down button
 
 or
 
 Use simple reboot (root needed) (https://play.google.com/store/apps/details?id=simple.reboot.com)
 ## TWRP Backup & Restore
-*System
-*System image
-*Data
+* System
+* System image
+* Data
